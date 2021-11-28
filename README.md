@@ -1,5 +1,5 @@
 - 👋 Olá sou Luis Gustavo.
-- 👀 Estou interessado em estágio na área de TI.
+- 👀 Busco por oportunidade de ingressar na área de TI.
 - 🌱 Atualmente estou aprendendo Análise e desenvolvimento de sistemas.
 - 📫 Meu E-mail: luisgustavordp@gmail.com
 
