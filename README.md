@@ -1,6 +1,6 @@
 - 👋 Olá sou Luis Gustavo.
 - 👀 Busco por oportunidade de ingressar na área de TI.
-- 🌱 Atualmente estou aprendendo Análise e desenvolvimento de sistemas.
+- 🌱 Atualmente estou me formando em Análise e desenvolvimento de sistemas.
 - 📫 Meu E-mail: luisgustavordp@gmail.com
 
 <!---
