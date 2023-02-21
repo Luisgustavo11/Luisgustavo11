@@ -35,4 +35,4 @@
 <img height="200em" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hqueacb9s10wzklyomeqh6c6argu0h1va4j66yqr&rid=giphy.gif&ct=g" alt="codando" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgustavo11&hide_progress=true)](https://github.com/Luisgustavo11/github-readme-stats)a
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgustavo11&hide_progress=true)]()
